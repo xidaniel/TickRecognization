@@ -2,30 +2,15 @@
 
 
 ## About The Project
-
-<img src="tick.jpg" alt="Pulpit rock" width="304" height="528">
-<img src="notick.jpg" alt="Pulpit rock" width="304" height="528">
-
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
-
-
+This project cooperated with the Laboratory of Medical Zoology (LMZ) to develop an lightweight CNN model to recognize Tick. And then to develop an real-time application deployed on Android mobile phone.
+- This is screenshot from phone.
+<img src="tick.png" alt="Pulpit rock" width="404" height="328">
 
 <!-- GETTING STARTED -->
 
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
+1. Give a star to the repo😄
 
 2. Clone the repo
 
@@ -33,22 +18,18 @@ To get a local copy up and running follow these simple example steps.
    git clone https://github.com/your_username_/Project-Name.git
    ```
 
-3. Install NPM packages
-
-   ```sh
-   npm install
-   ```
-
-4. Enter your API in `config.js`
-
-   ```JS
-   const API_KEY = 'ENTER YOUR API';
-   ```
+3. Install Android Studio
 
 
+4. Generate apk
+
+5. Send apk file to mobile
+
+6. Install apk file on Android phone
+
+7. It is your time to play
 
 <!-- USAGE EXAMPLES -->
-
 
 
 ## Contributing
