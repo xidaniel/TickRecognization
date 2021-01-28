@@ -18,9 +18,9 @@ This project cooperated with the Laboratory of Medical Zoology (LMZ) to develop 
    git clone https://github.com/xidaniel/TickRecognization.git
    ```
 
-3. Install Android Studio
+3. Install Android Studio and open downloaded file
 
-4. Generate apk
+4. Generate apk using Android Studio
 
 5. Send apk file to mobile
 
