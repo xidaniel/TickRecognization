@@ -4,7 +4,8 @@
 ## About The Project
 This project cooperated with the Laboratory of Medical Zoology (LMZ) to develop a Lightweight convolutional neural network (CNN) model to recognize Tick. And then to develop an real-time application deployed on Android mobile phone.
 - This is screenshot from Android phone.
-<img src="tick.png" alt="Pulpit rock" width="404" height="328">
+<img src="tick.png" alt="Pulpit rock" width="404" height="328"> <img src="tickgif.gif" width=210 alt="tick">
+
 
 <!-- GETTING STARTED -->
 
